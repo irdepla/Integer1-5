@@ -1,18 +1,24 @@
-sn,dddds
-ddddssss
-dddds
+                                                            HISTORY OF JAVASCRIPT
+1. Birth of JavaScript (1995):
+Inventor: JavaScript was created by Brendan Eich at Netscape Communications. Originally, it was developed in just 10 days to run inside Netscape's web browser.
 
 
+Initial Name: It was first called Mocha, then LiveScript, before being renamed JavaScript in a marketing move to ride the popularity of Java (even though Java and JavaScript are very different).
 
 
+Purpose: It was designed as a lightweight scripting language for web pages to make them interactive, as HTML and CSS alone were static. 
+
+JavaScript grew rapidly due to the increasing popularity of the web.
+Internet Explorer (IE) and Netscape Navigator were the dominant browsers at the time, each with their own implementations of JavaScript, leading to compatibility issues.
+DHTML (Dynamic HTML) emerged in the late '90s, combining HTML, CSS, and JavaScript to create interactive websites.
 
 
+                                                            Primitive and Reference data types
 
+Primitive types are simple, immutable values. This means that once a primitive value is created, it cannot be altered.
 
+Types of primitive data types:
 
-
-
-
-
-
-dsds
+Number: e.g., 10, 3.14
+String: e.g., 'Hello', "JavaScript"
+                                                                                                                          
