@@ -21,4 +21,30 @@ Types of primitive data types:
 
 Number: e.g., 10, 3.14
 String: e.g., 'Hello', "JavaScript"
-                                                                                                                          
+Summary of Differences:
+Aspect	Primitive Types	Reference Types
+Storage	Stored directly in stack memory	Stored in heap memory, reference in stack
+Mutability	Immutable (cannot be changed)	Mutable (can be changed)
+Assignment	Creates a copy of the value	Copies the reference (points to the same object)
+Examples	Number, String, Boolean, Null	Object, Array, Function
+
+
+                                                            Variable types
+
+
+                                                            In JavaScript, variables are declared using three keywords:
+
+1. **`var`**: 
+   - Function-scoped.
+   - Hoisted but initialized as `undefined`.
+   - Can be re-declared and re-assigned.
+
+2. **`let`**: 
+   - Block-scoped.
+   - Hoisted but not initialized.
+   - Can be re-assigned but not re-declared in the same scope.
+
+3. **`const`**: 
+   - Block-scoped.
+   - Hoisted but not initialized.
+   - Cannot be re-assigned or re-declared, though object and array values can be modified.
